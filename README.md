@@ -1,5 +1,5 @@
 # GeoChemNet
-A tool to turn large, multidimensional, geochemical datasets into visualizations that highlight geochemical relations geospatially. <br \>
+A tool to turn large, multidimensional, geochemical datasets into visualizations that highlight geochemical relations geospatially. <br />
 ![Network Example Study Area with UI](https://github.com/user-attachments/assets/0f4984fa-6678-4bcc-a7d6-0f4d80d6634d)
 
 
