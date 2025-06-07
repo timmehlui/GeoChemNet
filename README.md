@@ -1,4 +1,8 @@
 # GeoChemNet
+A tool to turn large, multidimensional, geochemical datasets into visualizations that highlight geochemical relations geospatially. <br \>
+![Network Example Study Area with UI](https://github.com/user-attachments/assets/0f4984fa-6678-4bcc-a7d6-0f4d80d6634d)
+
+
 Code related to manuscript titled "GeoChemNet: An Interactive Tool for Visualizing and Interpreting Outliers in Geochemical Data Using Networks", authored by Timothy C.C. Lui, Anirudh Prabhu, Anna Bidgood, Shaunna M Morrison, Jef Caers. <br /> 
 
 Requirements <br /> 
