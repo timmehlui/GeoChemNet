@@ -15,5 +15,6 @@ networkx 2.8.4 <br />
 pyrolite 0.3.1 <br /> 
 
 Files <br /> 
-GeoChemNet_Product_v2.ipnyb is the main Jupyter notebook where you can visualize your datasets <br /> 
+GeoChemNet_v1.0.ipnyb is the main Jupyter notebook where you can visualize your datasets <br /> 
 Full_Protocol_for_GeoChemNet_Usage.docx describes suggested steps used to properly use the tool <br /> 
+CHANGELOG.md documents the changes that have occured since the original publication of GeoChemNet <br />
