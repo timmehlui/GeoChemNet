@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1] - 2026-03-17
+
+### Added
+
+- Turned script into more modular functions, increasing ease of use. Now users only need to edit the hyperparameter cell and the main execution cell.
+
 ## [1.0] - 2025-06-07
 
 ### Added
