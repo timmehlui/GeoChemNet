@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2026-03-24
+
+### Added
+
+- Edited functions to be able to label sample nodes if desired.
+
 ## [1.1] - 2026-03-17
 
 ### Added
