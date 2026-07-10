@@ -11,14 +11,15 @@ Requirements <br />
 Python 3.9.7 <br /> 
 numpy 1.23.5 <br /> 
 pandas 1.3.4 <br /> 
-scipy 1.12.0 <br /> 
 matplotlib 3.5.3 <br /> 
 networkx 2.8.4 <br /> 
 pyrolite 0.3.1 <br /> 
+scikit-learn 0.24.2 <br /> 
+ipywidgets 7.6.5 <br /> 
 
 Files <br /> 
-GeoChemNet_v1.1.1.ipnyb is the main Jupyter notebook where you can visualize your datasets <br /> 
-Full_Protocol_for_GeoChemNet_Usage.docx describes suggested steps used to properly use the tool <br /> 
+GeoChemNet_Product_v1.2.ipnyb is the main Jupyter notebook where you can visualize your datasets <br /> 
+Full Protocol for GeoChemNet Usage.docx describes suggested steps used to properly use the tool <br /> 
 CHANGELOG.md documents the changes that have occured since the original publication of GeoChemNet <br />
 GeoChemNetOriginalEnvironment.yaml is the environment that can be loaded into Anaconda to make sure packages work <br />
 WorldEnergy2024.csv is the testing dataset used in the Youtube Tutorial to try out GeoChemNet. Energy Institute - Statistical Review of World Energy (2025).
