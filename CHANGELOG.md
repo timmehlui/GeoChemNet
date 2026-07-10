@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- Removed unused imports (`pyvis`, `networkx.algorithms.bipartite`, `scipy`, scikit-learn's `PCA`/`KMeans`/`silhouette_score`, `os`, `imageio`, `matplotlib.colors`) that were never referenced in the notebook.
+- Removed unused imports that were not used in the final notebook.
 
 ## [1.1.1] - 2026-03-24
 
